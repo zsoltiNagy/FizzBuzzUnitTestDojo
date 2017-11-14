@@ -50,5 +50,18 @@ namespace FizzBuzz.Tests
             // Assert
             Assert.AreEqual(result, expected);
         }
+
+        [TestMethod()]
+        public void Generate_GetFive_ReturnBuzz()
+        { // Arange
+            var generator = new FizzBuzzGenerator();
+
+            // Act
+            var result = generator.Generate(5);
+            var expected = "Buzz";
+
+            // Assert
+            Assert.AreEqual(result, expected);
+        }
     }
 }
