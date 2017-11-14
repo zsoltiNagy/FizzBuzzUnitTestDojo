@@ -12,9 +12,17 @@ namespace FizzBuzz.Tests
     public class ProgramTests
     {
         [TestMethod()]
-        public void MainTest()
+        public void Generate_GetZero_ReturnZeroString()
         {
-            Assert.Fail();
+            // Arange
+            generator = new FizzBuzz();
+
+            // Act
+            var result = generator.Generate(0);
+            var expected = "0";
+
+            // Assert
+            Assert.AreEqual(result, expected);
         }
     }
 }
