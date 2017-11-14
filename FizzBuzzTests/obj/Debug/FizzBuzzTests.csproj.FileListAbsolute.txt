@@ -1,0 +1,2 @@
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\obj\Debug\FizzBuzzTests.csproj.CoreCompileInputs.cache

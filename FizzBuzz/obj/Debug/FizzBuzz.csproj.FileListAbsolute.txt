@@ -1,0 +1,7 @@
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.pdb
