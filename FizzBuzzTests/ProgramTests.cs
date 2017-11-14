@@ -15,7 +15,7 @@ namespace FizzBuzz.Tests
         public void Generate_GetZero_ReturnZeroString()
         {
             // Arange
-            generator = new FizzBuzz();
+            var generator = new FizzBuzzGenerator();
 
             // Act
             var result = generator.Generate(0);

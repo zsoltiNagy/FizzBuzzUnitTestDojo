@@ -5,3 +5,10 @@ C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\Fi
 C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
 C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
