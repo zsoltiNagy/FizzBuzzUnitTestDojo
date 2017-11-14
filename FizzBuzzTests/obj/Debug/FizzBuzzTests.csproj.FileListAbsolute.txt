@@ -16,3 +16,17 @@ C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzz
 C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.csproj.CoreCompileInputs.cache
 C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
 C:\Users\amala\Documents\Codecool\C#\Dojo\FizzBuzzUnitTestDojo\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\FizzBuzz.exe
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\FizzBuzz.pdb
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\FizzBuzz.exe.config
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\Zsolt Nagy\dotNET\TW\2ndweek\FizzBuzzUnitTestDojo\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb

@@ -24,5 +24,18 @@ namespace FizzBuzz.Tests
             // Assert
             Assert.AreEqual(result, expected);
         }
+
+        [TestMethod()]
+        public void Generate_GetOne_ReturnOneString()
+        { // Arange
+            var generator = new FizzBuzzGenerator();
+
+            // Act
+            var result = generator.Generate(1);
+            var expected = "1";
+
+            // Assert
+            Assert.AreEqual(result, expected);
+        }
     }
 }

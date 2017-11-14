@@ -14,7 +14,8 @@ namespace FizzBuzz
 
         public string Generate(int number)
         {
-            return "0";
+
+            return number.ToString();
         }
     }
 }
