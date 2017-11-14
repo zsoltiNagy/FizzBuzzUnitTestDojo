@@ -14,14 +14,24 @@ namespace FizzBuzz
 
         public string Generate(int number)
         {
+
             string result;
-            if (number > 0 && number % 3 == 0)
+            if (number > 0)
             {
-                result = "Fizz";
-            } else if (number > 0 && number % 5 == 0){
-                result = "Buzz";
-            }
-            else {
+                if (number % 3 == 0)
+                {
+                    result = "Fizz";
+                }
+                else if (number % 5 == 0)
+                {
+                    result = "Buzz";
+                }
+                else
+                {
+                    result = number.ToString();
+                }
+            } else
+            {
                 result = number.ToString();
             }
             return result;
