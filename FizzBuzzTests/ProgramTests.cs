@@ -76,5 +76,18 @@ namespace FizzBuzz.Tests
             // Assert
             Assert.AreEqual(result, expected);
         }
+
+        [TestMethod()]
+        public void GenerateList_GetInt_ReturnListWithFizzBuzzValues()
+        { // Arange
+            var generator = new FizzBuzzGenerator();
+
+            // Act
+            var result = generator.GenerateList(16);
+            var expected = new string[] { "0", "1", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "10", "11", "Fizz", "13", "14", "Fizzbuzz" };
+
+            // Assert
+            Assert.AreEqual(result, expected);
+        }
     }
 }
