@@ -14,26 +14,18 @@ namespace FizzBuzz
 
         public string Generate(int number)
         {
-
+            Boolean fizz = number > 0 && number % 3 == 0;
+            Boolean buzz = number > 0 && number % 5 == 0;
             string result;
-            if (number > 0)
+            if (fizz && buzz)
             {
-                if (number % 3 == 0 && number % 5 == 0)
-                {
-                    result = "FizzBuzz";
-                }
-                else if (number % 3 == 0)
-                {
-                    result = "Fizz";
-                }
-                else if (number % 5 == 0)
-                {
-                    result = "Buzz";
-                }
-                else
-                {
-                    result = number.ToString();
-                }
+                result = "FizzBuzz";
+            } else if (fizz)
+            {
+                result = "Fizz";
+            } else if (buzz)
+            {
+                result = "Buzz";
             } else
             {
                 result = number.ToString();
